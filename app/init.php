@@ -1,7 +1,7 @@
 <?php
 
-require './core/app.php';
-require './core/config.php';
-require './core/controller.php';
-require './core/database.php';
-require './core/functions.php';
+require './app/core/app.php';
+require './app/core/config.php';
+require './app/core/controller.php';
+require './app/core/database.php';
+require './app/core/functions.php';
